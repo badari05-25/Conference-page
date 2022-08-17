@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right, #e93e72 , #7c40bb);
+}
+
+.card {
+    border: none !important;
+    background: none !important;
+}
+
+.cardbg{
+    background-color: #fcc707;
+    color:black;
+}
+
+.cardtwo{
+    background-image: url(Resources/image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 250px;
+}
+
+.bg{
+    background: #fcc707;
+    position: absolute;
+    top: 41%;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.bg1{
+    top: 66%;
+}
+
+.card-body.twobg {
+    background: #fcc707;
+    margin-bottom: 8px;
+    text-align: center;
+    height: 7.6rem;
+    padding-top: 2rem;
+}
+
+.cardthree{
+    background-color: white;
+    text-align: center;
+}
+
+
+.cardfour{
+    background-color: #fff;
+}
+
+.card_four{
+    background-image: url(Resources/image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 12rem;
+}
+
+.img {
+    width: 100%;
+    height: 12rem;
+}
+
+.fourcontent {
+    padding-top: 2rem;
+    line-height: 1;
+}
+
+.cardfive{
+    width: 100%;
+    height: 10rem;
+}
+
+.card_five{
+    background-image: url(Resources/image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 10rem;
+    margin:4px;
+}
